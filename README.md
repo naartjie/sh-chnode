@@ -44,7 +44,7 @@ these out:
 - [N][n]
 - [Nodist][nodist]
 
-[nvm]: https://github.com/brianloveswords/nvm
+[nvm]: https://github.com/creationix/nvm
 [n]: https://github.com/visionmedia/n
 [nodist]: https://github.com/marcelklehr/nodist
 
